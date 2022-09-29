@@ -22,7 +22,7 @@ window.addEventListener("resize", function(){
         let ancho = this.document.documentElement.clientWidth
 
         if (ancho > 480) {
-            header.style = " "
+            header.style = ""
         }
 
 })
